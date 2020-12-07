@@ -1,0 +1,17 @@
+{
+    "name": "valladares/carrito-de-compras",
+    "description": "Carrito de Compras con Php",
+    "type": "project",
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.14",
+        "nesbot/carbon": "^2.42"
+    },
+    "license": "GLP",
+    "authors": [
+        {
+            "name": "alfredo-valladares",
+            "email": "josealfredo.developer@outlook.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
